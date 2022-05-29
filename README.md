@@ -1,6 +1,6 @@
-# allegoria (allegoria-painel)
+# quasar (quasar-painel)
 
-dashboard allegoria
+dashboard quasar
 
 ## Install the dependencies
 ```bash
