@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
+// app global css in SCSS form
+html{
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: $fifth;
+  font-family: 'Poppins', sans-serif !important;
+}
+
+// Scroll bar
+::-webkit-scrollbar{
+  width: .60rem;
+  background-color: $third;
+  border-radius: .5rem;
+}
+
+::-webkit-scrollbar-thumb{
+  background-color: $fourth;
+  border-radius: .5rem;
+}
+
+::-webkit-scrollbar-thumb:hover{
+  background-color: $fourth;
+}
